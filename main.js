@@ -1,3 +1,4 @@
+const OPENAI_API_KEY = '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';
 const princessDisplay = document.querySelector(".generated-princess p");
 
 // Funktion til at generere prinsesseteksten.
